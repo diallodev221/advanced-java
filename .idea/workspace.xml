@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82c35f8c-bd98-42fc-b4ba-3e8b7c6af487" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2lKTXeRnvK3Mi6TnDrEEogiwUTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.com.diallodev.functional_programming.lambda.end.Main.executor": "Run",
+    "Application.com.diallodev.functional_programming.method_reference.Main.executor": "Run",
+    "Application.com.diallodev.functional_programming.stream.Main.executor": "Run",
+    "JUnit.StreamUtilsTest.testBeginningWithT.executor": "Run",
+    "JUnit.StreamUtilsTest.testSorted.executor": "Run",
+    "JUnit.StreamUtilsTest.testUpperCase.executor": "Run",
+    "JUnit.VotingSystemTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.diallodev.functional_programming" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.diallodev.functional_programming.stream" />
+      <recent name="com.diallodev.map" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.diallodev.functional_programming.lambda.end" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StreamUtilsTest">
+    <configuration name="StreamUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="advanced-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diallodev.functional_programming.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diallodev.functional_programming.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.diallodev.functional_programming.stream.StreamUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamUtilsTest.testBeginningWithT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="advanced-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diallodev.functional_programming.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diallodev.functional_programming.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.diallodev.functional_programming.stream.StreamUtilsTest" />
+      <option name="METHOD_NAME" value="testBeginningWithT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamUtilsTest.testEverythingCombined" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="advanced-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diallodev.functional_programming.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diallodev.functional_programming.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.diallodev.functional_programming.stream.StreamUtilsTest" />
+      <option name="METHOD_NAME" value="testEverythingCombined" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamUtilsTest.testSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="advanced-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diallodev.functional_programming.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diallodev.functional_programming.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.diallodev.functional_programming.stream.StreamUtilsTest" />
+      <option name="METHOD_NAME" value="testSorted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamUtilsTest.testUpperCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="advanced-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diallodev.functional_programming.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diallodev.functional_programming.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.diallodev.functional_programming.stream.StreamUtilsTest" />
+      <option name="METHOD_NAME" value="testUpperCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StreamUtilsTest" />
+        <item itemvalue="JUnit.StreamUtilsTest.testEverythingCombined" />
+        <item itemvalue="JUnit.StreamUtilsTest.testUpperCase" />
+        <item itemvalue="JUnit.StreamUtilsTest.testSorted" />
+        <item itemvalue="JUnit.StreamUtilsTest.testBeginningWithT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82c35f8c-bd98-42fc-b4ba-3e8b7c6af487" name="Changes" comment="" />
+      <created>1724927813534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724927813534</updated>
+      <workItem from="1724927816067" duration="6042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
