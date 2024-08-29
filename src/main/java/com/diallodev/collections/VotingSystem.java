@@ -1,4 +1,4 @@
-package com.diallodev.map;
+package com.diallodev.collections;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
